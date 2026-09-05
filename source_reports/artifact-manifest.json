@@ -4,7 +4,7 @@
     {
       "path": "index.html",
       "purpose": "Package navigation and scope statement.",
-      "source_dependencies": ["youtube:uBxoNBUFkgc"],
+      "source_dependencies": ["youtube:uBxoNBUFkgc", "youtube:9kPxL4vWLvU"],
       "primary": true
     },
     {
@@ -14,9 +14,15 @@
       "primary": true
     },
     {
+      "path": "reports/02_openai-jalapeno-nvidia.html",
+      "purpose": "Standalone transcript-grounded explanation of OpenAI’s Jalapeño inference chip and John Kim’s assessment of its implications for Nvidia.",
+      "source_dependencies": ["youtube:9kPxL4vWLvU"],
+      "primary": true
+    },
+    {
       "path": "source-manifest.json",
       "purpose": "Input, representation, retrieval, and coverage record.",
-      "source_dependencies": ["youtube:uBxoNBUFkgc"]
+      "source_dependencies": ["youtube:uBxoNBUFkgc", "youtube:9kPxL4vWLvU"]
     },
     {
       "path": "analysis-ir.json",

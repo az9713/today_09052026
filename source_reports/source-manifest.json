@@ -36,6 +36,39 @@
         "citation": "timestamp-addressable",
         "verification": "not-performed"
       }
+    },
+    {
+      "id": "youtube:9kPxL4vWLvU",
+      "input": "https://www.youtube.com/watch?v=9kPxL4vWLvU",
+      "canonical_url": "https://www.youtube.com/watch?v=9kPxL4vWLvU",
+      "title": "OpenAI’s New AI Chip Jalapeño: What It Means for Nvidia",
+      "type": "video",
+      "publisher": "John Kim",
+      "published_date": "2026-09-05",
+      "duration_seconds": 749,
+      "status": "analyzed",
+      "retrieved_at": "2026-09-05T10:36:14-07:00",
+      "representations": [
+        {
+          "path": "video_sources/9kPxL4vWLvU/9kPxL4vWLvU.info.json",
+          "type": "publisher metadata captured by yt-dlp",
+          "sha256": "D899B935FF8E3779870544BC4A3AB6718A2F92BA91EDB59EDD2981053032BA96"
+        },
+        {
+          "path": "video_sources/9kPxL4vWLvU/9kPxL4vWLvU.en.vtt",
+          "type": "English captions retrieved by yt-dlp",
+          "sha256": "678CEC826760310973FD9EA285F4AB3FAADF330D0877AEB42A335B81145CFAF8"
+        }
+      ],
+      "coverage": {
+        "identity": "full",
+        "textual": "substantial",
+        "visual": "partial",
+        "audio": "partial",
+        "temporal": "substantial",
+        "citation": "timestamp-addressable",
+        "verification": "not-performed"
+      }
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "package_version": 1,
+  "artifacts": [
+    {
+      "path": "index.html",
+      "purpose": "Package navigation and scope statement.",
+      "source_dependencies": ["youtube:uBxoNBUFkgc"],
+      "primary": true
+    },
+    {
+      "path": "reports/01_vc-experts-physical-ai.html",
+      "purpose": "Standalone plain-English source report with timestamped provenance and explicit limits.",
+      "source_dependencies": ["youtube:uBxoNBUFkgc"],
+      "primary": true
+    },
+    {
+      "path": "source-manifest.json",
+      "purpose": "Input, representation, retrieval, and coverage record.",
+      "source_dependencies": ["youtube:uBxoNBUFkgc"]
+    },
+    {
+      "path": "analysis-ir.json",
+      "purpose": "Canonical claims and limitations used by the report.",
+      "source_dependencies": ["youtube:uBxoNBUFkgc"]
+    }
+  ]
+}

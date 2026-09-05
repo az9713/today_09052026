@@ -1,0 +1,41 @@
+{
+  "package_version": 1,
+  "generated_at": "2026-09-05T07:46:21-07:00",
+  "input_manifest": "../sources.txt",
+  "input_manifest_sha256": "B653369E9D678B27BCD04DD9D5E7E5545536E0DF29DEAAE123987CD3A40F3F00",
+  "sources": [
+    {
+      "id": "youtube:uBxoNBUFkgc",
+      "input": "https://www.youtube.com/watch?v=uBxoNBUFkgc&t=15s",
+      "canonical_url": "https://www.youtube.com/watch?v=uBxoNBUFkgc",
+      "title": "VC experts on why Physical AI funding is heating up | E2333",
+      "type": "video",
+      "publisher": "This Week in Startups",
+      "published_date": "2026-09-02",
+      "duration_seconds": 4786,
+      "status": "analyzed",
+      "retrieved_at": "2026-09-05T07:46:21-07:00",
+      "representations": [
+        {
+          "path": "video_sources/uBxoNBUFkgc/uBxoNBUFkgc.info.json",
+          "type": "publisher metadata captured by yt-dlp",
+          "sha256": "DBB1007728475702AFAE7B05052DAA110FEC86A21E609DE372BAAFE1C159F933"
+        },
+        {
+          "path": "video_sources/uBxoNBUFkgc/uBxoNBUFkgc.en-orig.vtt",
+          "type": "English captions retrieved by yt-dlp",
+          "sha256": "7B42ED766E2ADF2017CF78B36AF6FBF6F8B975436469EAB54DFD4BE1F4272106"
+        }
+      ],
+      "coverage": {
+        "identity": "full",
+        "textual": "substantial",
+        "visual": "partial",
+        "audio": "partial",
+        "temporal": "substantial",
+        "citation": "timestamp-addressable",
+        "verification": "not-performed"
+      }
+    }
+  ]
+}

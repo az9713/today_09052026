@@ -1,0 +1,37 @@
+{
+  "package_version": 1,
+  "source_id": "youtube:uBxoNBUFkgc",
+  "analysis_type": "caption-grounded source summary",
+  "claims": [
+    {
+      "locator": "00:57:20",
+      "kind": "source claim",
+      "summary": "The host cites about $45–50 billion of physical-AI venture funding in the first half of 2026, around 450 deals, and growth of roughly 80% from 2025."
+    },
+    {
+      "locator": "00:57:20",
+      "kind": "guest investment thesis",
+      "summary": "Vertical physical-AI applications may commercialize earlier and avoid some of the dilution of general-purpose robotics bets."
+    },
+    {
+      "locator": "00:13:11",
+      "kind": "guest investment thesis",
+      "summary": "For startups selling to government, the harder problem may now be delivering a large contract rather than winning it."
+    },
+    {
+      "locator": "00:30:38",
+      "kind": "company and valuation claim",
+      "summary": "The panel says Starcloud raised $250 million at a $2.3 billion valuation for orbital data centers."
+    },
+    {
+      "locator": "01:11:49",
+      "kind": "guest normative claim",
+      "summary": "Control of sensitive data is an integrity and fiduciary issue, not only a procurement decision."
+    }
+  ],
+  "limits": [
+    "No independent verification of policy, company, funding, valuation, or market-size claims was performed.",
+    "Caption evidence is not a substitute for visual or audio review.",
+    "The source includes speakers with disclosed investments and should be read as a venture-capital discussion."
+  ]
+}
